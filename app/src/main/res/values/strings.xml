@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clima</string>
+    
+    <!-- Strings Main Activity -->
+    <string name="texto_grados">23°</string>
+    <string name="texto_ciudad">Ciudad de guatemala</string>
+    <string name="texto_estatus">Nublado</string>
+    
+    <!-- Strings Ciudades Activity -->
+    
+    <string name="texto_boton_ciudad1">Clima de Guatemala</string>
+    <string name="texto_boton_ciudad2">Clima de Mexico</string>
+    <string name="texto_boton_ciudad3">Clima de Shangai</string>
+    
+    <string name="texto_Bienvenida">
+        Bienvenido a mi app del clima, para poder ver el clima de una ciudad selecciona la oppción de abajo.
+    </string>
+</resources>
