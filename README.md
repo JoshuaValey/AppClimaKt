@@ -15,7 +15,7 @@ _Para realizar el proyectoi se hizo uso de las siguientes heramientas_
 
 ## Autor 
 
-_La autoria original del proyecto fue realizada en un tutorial de udeme de [Juan Villalvazo](https://juanvillalvazo.com/) y personalizada por [Joshua Valey](www.linkedin.com/in/joshua-valey-790228155) _
+_La autoria original del proyecto fue realizada en un tutorial de udemy de [Juan Villalvazo](https://juanvillalvazo.com/) y personalizada por [Joshua Valey](www.linkedin.com/in/joshua-valey-790228155) _
 
 * **Joshua Valey** - *Personalizacion del proyecto* - [Perfil de linkedin](www.linkedin.com/in/joshua-valey-790228155)
 * **Juan Villalvazo** - *Profesor de udemy* - [Curso de android](https://www.udemy.com/android_kotlin/)
