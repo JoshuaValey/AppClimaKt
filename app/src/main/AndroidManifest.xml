@@ -19,7 +19,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"></activity>
+        <!--Nombre de la actividad donde debe ir la flecha de regreso-->
+        <activity android:name=".MainActivity"
+            android:parentActivityName=".Ciudades"><!--Nombre de la actividad donde deb e regresar -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                />
+        </activity>
     </application>
 
 </manifest>

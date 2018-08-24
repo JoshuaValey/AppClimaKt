@@ -2,7 +2,7 @@
     <string name="app_name">Clima</string>
     
     <!-- Strings Main Activity -->
-    <string name="texto_grados">23°</string>
+    <string name="texto_grados">0°</string>
     <string name="texto_ciudad">Ciudad de guatemala</string>
     <string name="texto_estatus">Nublado</string>
     
