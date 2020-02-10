@@ -4,7 +4,7 @@ _Este proyecto presume ser un ejemplo de una aplicación del clima de ciertas ci
 
 ## Desarrollo
 
-_Para realizar el proyectoi se hizo uso de las siguientes heramientas_
+_Para realizar el proyectoi se hizo uso de las siguientes herramientas_
 
 * [Open Wheather Map](https://openweathermap.org/) - El api usada para recuperar la info del clima. 
 * [Kotlin](https://kotlinlang.org/) - Como lenguaje de programacion principal.
