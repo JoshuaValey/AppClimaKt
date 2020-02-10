@@ -7,7 +7,7 @@ _Este proyecto presume ser un ejemplo de una aplicación del clima de ciertas ci
 _Para realizar el proyectoi se hizo uso de las siguientes heramientas_
 
 * [Open Wheather Map](https://openweathermap.org/) - El api usada para recuperar la info del clima. 
-* [Kotlin](https://kotlinlang.org/) - Como lenguaje de programacion primcipal.
+* [Kotlin](https://kotlinlang.org/) - Como lenguaje de programacion principal.
 
 ### Librerias
  * [Volley](https://developer.android.com/training/volley/) - Libreria para hacer las solicitudes HTTP
