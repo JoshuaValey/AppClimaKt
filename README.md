@@ -1,4 +1,4 @@
-# Prueba Google Cloud MEIA 2020 
+# AppClimaKt 
 
 _Este proyecto presume ser un ejemplo de una aplicación del clima de ciertas ciudades, haciendo uso del lenguage de programación Kotlin_
 
