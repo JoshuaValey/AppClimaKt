@@ -1,4 +1,4 @@
-# Aplicación del Clima con Kotlin. 
+# Prueba Google Cloud MEIA 2020 
 
 _Este proyecto presume ser un ejemplo de una aplicación del clima de ciertas ciudades, haciendo uso del lenguage de programación Kotlin_
 
